@@ -9,6 +9,10 @@ p{
     text-align: center;
     color: aliceblue;
 }
+a{
+    text-align: center;
+    color:aliceblue
+}
 img{
     justify-content: center;
     max-width: 200px;
